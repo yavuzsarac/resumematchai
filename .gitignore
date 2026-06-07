@@ -14,3 +14,5 @@ frontend/out/
 *.tsbuildinfo
 *.log
 .DS_Store
+.env.*
+*.env
